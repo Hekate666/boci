@@ -1,0 +1,8 @@
+print("Csányi Marianna")
+print("< Ezt rajzold meg! >  ")
+print("------------------    ")
+print(" \   ^__^             ")
+print("  \  (oo)\_______     ")
+print("     (__)\       )\/\ ")
+print("         ||----w |   ")
+print("         ||     ||   ")
